@@ -8,7 +8,7 @@ You'll want to make sure that:
 - [ ] Decimal numbers are supported
 - [ ] Large numbers are supported
 
-To submit your assignment you'll work on and submit your code as part of a [pull request](./pulls/1). To begin working:
+To submit your assignment you'll work on and submit your code as part of a [pull request](../../pull/1). To begin working:
 
 1. Clone this repository
 2. Checkout the `assignment` branch: `git checkout assignment`
