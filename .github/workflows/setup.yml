@@ -1,5 +1,10 @@
 name: Setup
-on: [push]
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - ".github/workflows/setup.yml"
 
 jobs:
   build:
