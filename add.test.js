@@ -3,7 +3,7 @@ const add = require('./add.js')
 describe('adding two numbers', () => {
   it('returns a number', () => {
     const result = add(6, 6)
-    expect(result).toEqual(11)
+    expect(result).toEqual(12)
   })
 
   it('errors on non-numbers', () => {
