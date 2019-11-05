@@ -2,8 +2,8 @@ const add = require('./add.js')
 
 describe('adding two numbers', () => {
   it('returns a number', () => {
-    const result = add(2, 2)
-    expect(result).toEqual(4)
+    const result = add(6, 6)
+    expect(result).toEqual(11)
   })
 
   it('errors on non-numbers', () => {
